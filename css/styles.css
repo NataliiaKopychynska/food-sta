@@ -1,0 +1,211 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  color: #2c2c2c;
+  background-color: #fefefe;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* ------HEADER------ */
+.header {
+}
+
+.logo {
+}
+
+.navigation {
+}
+
+.navigation-list {
+}
+
+.navigation-title {
+  font-weight: 400;
+  font-size: 14px;
+  color: #2c2c2c;
+}
+
+.navigation-title:hover,
+.navigation-title:focus {
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #bbf330;
+}
+
+.button-order-now {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.5;
+  text-align: right;
+  color: #2c2c2c;
+}
+
+/* -----HERO----- */
+.hero {
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.2;
+  color: #2c2c2c;
+}
+
+.hero-title-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* ----ABOUT OUR OFFERINGS */
+.section-about-ofer {
+}
+
+.about-ofer-title {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.2;
+  color: #2c2c2c;
+}
+
+.about-ofer-list {
+}
+
+.about-ofer-list-title {
+}
+
+.about-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.4;
+  color: #2c2c2c;
+}
+.about-paragraf {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+
+/* ------FAVORITES FOOD----- */
+.section-favorites-food {
+}
+
+.food-list {
+}
+
+.food-title {
+}
+
+/* -----REVIEW------ */
+.section-review {
+}
+
+.review-list {
+}
+
+.review-list-title {
+}
+
+.review-paragraf {
+  font-weight: 700;
+  font-size: 18px;
+  color: #2c2c2c;
+}
+.review-name {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+
+/* -----SUBSCRIBE----- */
+.section-subscribe {
+}
+
+.email-form {
+}
+
+.email-input {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #505050;
+}
+
+.email-subscribe-btn {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+
+/* -----FOOTER----- */
+
+.form-name {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+
+.text-under-input {
+  font-weight: 400;
+  font-size: 12px;
+  color: #2c2c2c;
+}
+
+.text-under-input-accent {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #7eb101;
+}
+
+.information-link-list {
+}
+
+.information-link-title {
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #7eb101;
+}
+
+.page-release {
+  font-weight: 400;
+  font-size: 12px;
+  color: #2c2c2c;
+}
