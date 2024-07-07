@@ -180,6 +180,11 @@ address {
   padding-bottom: 101px;
 }
 
+.section-favorites-food .container {
+  display: flex;
+  align-items: center;
+}
+
 .food-name-title {
   text-align: center;
   margin-bottom: 20px;
