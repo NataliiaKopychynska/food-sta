@@ -181,7 +181,6 @@ address {
 }
 
 .section-favorites-food .container {
-  display: flex;
   align-items: center;
 }
 
