@@ -39,6 +39,10 @@ address {
   margin: 0 auto;
 }
 
+.logo {
+  width: 66px;
+  height: 52px;
+}
 /* ------HEADER------ */
 
 .header {
@@ -206,12 +210,31 @@ address {
 
 /* -----REVIEW------ */
 .section-review {
+  padding-top: 140px;
+  padding-bottom: 126px;
+  height: 620px;
+  background-color: #ffe550;
+}
+
+.review-h-title {
+  margin-bottom: 20px;
+}
+
+.review-title-paragraf {
+  margin-bottom: 32px;
 }
 
 .review-list {
+  display: flex;
+  gap: 139px;
 }
 
 .review-list-title {
+  border-radius: 0 30px 30px 30px;
+  width: 501px;
+  height: 231px;
+  background: #fefefe;
+  padding: 14px;
 }
 
 .review-paragraf {
@@ -219,6 +242,10 @@ address {
   font-size: 18px;
   color: #2c2c2c;
 }
+
+.div-autor-review {
+}
+
 .review-name {
   font-weight: 500;
   font-size: 14px;
